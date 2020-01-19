@@ -4,7 +4,7 @@ LockSystem Versión 5.0
 Electrotelco edited this page 9 minutes ago · 1 revision
 Esta es la última versión de LockSystem. Este es mi primer proyecto público en FiveM, por el momento.
 
-En esta versión, soluciono un par de problemas y agrego una animación cuando abres / cierras el vehículo. Todo configurado. Enlaza con MySQL. Lee dueños de vehiculos y da las llaves automáticamente.
+En esta versión, soluciono un par de problemas y agrego una animación cuando abres / cierras el vehículo. Todo configurado. Enlaza con MySQL. Localiza los vehiculos comprados y da automaticamente la llave al dueño cuando este accede al vehiculo al sacarlo de garaje.
 
 Script original: https://github.com/Xseba360/esx_locksystem
 
